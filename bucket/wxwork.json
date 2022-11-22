@@ -1,6 +1,6 @@
 {
     "version": "4.0.19.6020",
-    "description": "A communication platform for enterprises that includes convenient communication and office automation tools.",
+    "description": "A communication platform for enterprises that includes convenient communication and office automation tools. upstream: https://github.com/hoilc/scoop-lemon/blob/master/bucket/wxwork.json",
     "homepage": "https://work.weixin.qq.com/",
     "license": "Freeware",
     "url": "https://dldir1.qq.com/wework/work_weixin/WeCom_4.0.19.6020.exe#/dl.7z",

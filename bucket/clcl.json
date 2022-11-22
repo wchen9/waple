@@ -1,5 +1,6 @@
 {
     "homepage": "https://www.nakka.com/soft/clcl/index_eng.html",
+    "description": "upstream: https://github.com/dodorz/scoop/blob/master/CLCL.json",
     "license": "unkown",
     "version": "2.1.2",
     "url": "https://www.nakka.com/soft/clcl/download/clcl212.zip",
