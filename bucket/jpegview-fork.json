@@ -1,6 +1,6 @@
 {
     "version": "1.0.40",
-    "description": "Fork of JPEGView by David Kleiner - fast and highly configurable image viewer/editor with a minimal GUI.",
+    "description": "Fork of JPEGView by David Kleiner - fast and highly configurable image viewer/editor with a minimal GUI. upstream: https://github.com/cc713/ownscoop/blob/master/bucket/jpegview-fork.json",
     "homepage": "https://github.com/sylikc/jpegview",
     "license": "GPL-2.0-or-later",
     "url": "https://github.com/sylikc/jpegview/releases/download/v1.0.40/JPEGView_1.0.40.zip#/dl.7z",
