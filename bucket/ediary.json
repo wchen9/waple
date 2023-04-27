@@ -1,7 +1,7 @@
 {
     "homepage": "http://www.haoxg.net/ediary/index.html",
     "description": "An electronic diary software born in 1999, which is still in active development. upstream: https://github.com/chawyehsu/dorado/blob/master/bucket/ediary.json",
-    "version": "4.1-win32",
+    "version": "4.2-win64",
     "license": "Freeware",
     "url": "http://www.haoxg.net/ediary/download/ediary-4.2-win64-copy.zip",
     "hash": "541622C3B7D64FD9BBFAF2436E8C914882C45062D4FC37697C328992771BC3FB",
