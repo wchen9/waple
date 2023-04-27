@@ -3,9 +3,9 @@
     "description": "An electronic diary software born in 1999, which is still in active development. upstream: https://github.com/chawyehsu/dorado/blob/master/bucket/ediary.json",
     "version": "4.1-win32",
     "license": "Freeware",
-    "url": "http://www.haoxg.net/ediary/download/ediary-4.1-win32-copy.zip",
-    "hash": "29505ad3b93839ae8b723db3c4f5be8d52cba034a0ab3732dde09bf08af8ea9b",
-    "extract_dir": "eDiary-4.1-win32",
+    "url": "http://www.haoxg.net/ediary/download/ediary-4.2-win64-copy.zip",
+    "hash": "541622C3B7D64FD9BBFAF2436E8C914882C45062D4FC37697C328992771BC3FB",
+    "extract_dir": "ediary-4.2-win64",
     "pre_install": "if (!(Test-Path $persist_dir\\Config.ini)) { New-Item $dir\\Config.ini | Out-Null }",
     "shortcuts": [
         [
