@@ -4,7 +4,7 @@
     "version": "4.2-win64",
     "license": "Freeware",
     "url": "http://www.haoxg.net/ediary/download/ediary-4.2-win64-copy.zip",
-    "hash": "6bbd06b92fff51831f0911719a820dd585be168e60e20ebca4fb52800bcac2ed",
+    "hash": "541622c3b7d64fd9bbfaf2436e8c914882c45062d4fc37697c328992771bc3fb",
     "extract_dir": "ediary-4.2-win64",
     "pre_install": "if (!(Test-Path $persist_dir\\Config.ini)) { New-Item $dir\\Config.ini | Out-Null }",
     "shortcuts": [
