@@ -1,0 +1,24 @@
+{
+    "homepage": "https://github.com/zufuliu/notepad2",
+    "description": "A modified version (fork) of Notepad2-mod.",
+    "version": "4.23.11r5052",
+    "license": "BSD 3-Clause",
+    "url": "https://github.com/zufuliu/notepad2/releases/download/v4.23.11r5052/Notepad2_HD_zh-Hans_AVX2_v4.23.11r5052.zip",
+    "hash": "e11ba386c576427ccbb37e743011bc6600794c041816525d03c188109a4ee540",
+    "bin": "Notepad2.exe",
+    "shortcuts": [
+        [
+            "Notepad2.exe",
+            "Notepad2"
+        ]
+    ],
+    "persist": [
+        "metapath.ini",
+        "Notepad2 DarkTheme.ini",
+        "Notepad2.ini"
+    ],
+    "checkver": {
+        "url": "https://github.com/zufuliu/notepad2/releases/latest",
+        "regex": "<title>Release v([\\d.]+r[\\d.]+)"
+    }
+}
